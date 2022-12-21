@@ -1,0 +1,632 @@
+[
+    {
+        "level": "easy",
+        "language": "polish",
+        "category": "other",
+        "question": "Jestem kolejną cyfrą występującą po trzy. Czym jestem?",
+        "correctAnswer": "cztery",
+        "incorrectAnswer1": "pięć",
+        "incorrectAnswer2": "osiemnaście"
+    },
+    {
+        "level": "easy",
+        "language": "polish",
+        "category": "other",
+        "question": "Jestem odpowiednikiem tysiąca gram. Czym jestem?",
+        "correctAnswer": "jeden kilogram",
+        "incorrectAnswer1": "pięć kilogramów",
+        "incorrectAnswer2": "dwa kilogramy"
+    },
+    {
+        "level": "easy",
+        "language": "polish",
+        "category": "other",
+        "question": "Mój znak to '*'. Czym jestem?",
+        "correctAnswer": "mnożenie",
+        "incorrectAnswer1": "dodawanie",
+        "incorrectAnswer2": "dzielenie"
+    },
+    {
+        "level": "hard",
+        "language": "polish",
+        "category": "other",
+        "question": "Służę do obróbki drewna. Czym jestem?",
+        "correctAnswer": "tokarka",
+        "incorrectAnswer1": "wędzarka",
+        "incorrectAnswer2": "lodówka"
+    },
+    {
+        "level": "hard",
+        "language": "polish",
+        "category": "other",
+        "question": "Jestem zwieńczeniem szyi. Czym jestem?",
+        "correctAnswer": "głowa",
+        "incorrectAnswer1": "pacha",
+        "incorrectAnswer2": "pięta"
+    },
+    {
+        "level": "hard",
+        "language": "polish",
+        "category": "other",
+        "question": "Jestem jednocześnie kierunkiem geograficznym i środkiem nocy. Czym jestem?",
+        "correctAnswer": "północ",
+        "incorrectAnswer1": "południe",
+        "incorrectAnswer2": "jesień"
+    },
+    {
+        "level": "hard",
+        "language": "polish",
+        "category": "animals",
+        "question": "Odlatuję z Polski na zimę, a moje upierzenie jest w kolorach filmów z początku XX wieku. Kim jestem? ",
+        "correctAnswer": "bocian",
+        "incorrectAnswer1": "sójka",
+        "incorrectAnswer2": "kaczka"
+    },
+    {
+        "level": "hard",
+        "language": "polish",
+        "category": "animals",
+        "question": "Jestem  najcięższym w zapisie polskim ptakiem. Czym jestem??",
+        "correctAnswer": "gżegżółka",
+        "incorrectAnswer1": "grzegrzułka",
+        "incorrectAnswer2": "grzegrzółka"
+    },
+    {
+        "level": "hard",
+        "language": "polish",
+        "category": "animals",
+        "question": "Wyglądam jak połączenie wydry z chomikiem. Kim jestem?",
+        "correctAnswer": "kapibara",
+        "incorrectAnswer1": "pies",
+        "incorrectAnswer2": "okoń"
+    },
+    {
+        "level": "easy",
+        "language": "polish",
+        "category": "animals",
+        "question": "Zasypiam w sen zimowy, lubię miód, a w popularnej bajce mam na imię Kubuś. Kim jestem?",
+        "correctAnswer": "niedźwiedź",
+        "incorrectAnswer1": "żyrafa",
+        "incorrectAnswer2": "koń"
+    },
+    {
+        "level": "easy",
+        "language": "polish",
+        "category": "animals",
+        "question": "Mówią na mnie najlepszy przyjaciel człowieka. Kim jestem?",
+        "correctAnswer": "pies",
+        "incorrectAnswer1": "kapibara",
+        "incorrectAnswer2": "okoń"
+    },
+    {
+        "level": "easy",
+        "language": "polish",
+        "category": "animals",
+        "question": "Moim naturalnym środowiskiem jest woda. Kim jestem?",
+        "correctAnswer": "ryba",
+        "incorrectAnswer1": "ptak",
+        "incorrectAnswer2": "ssak"
+    },
+    {
+        "level": "easy",
+        "language": "english",
+        "category": "animals",
+        "question": "I'm a pet. Lions are related to me. Who am I? ",
+        "correctAnswer": "cat",
+        "incorrectAnswer1": "dog",
+        "incorrectAnswer2": "capybara"
+    },
+    {
+        "level": "easy",
+        "language": "english",
+        "category": "animals",
+        "question": "Im bird, but I can speak human language. Who am I?",
+        "correctAnswer": "parrot",
+        "incorrectAnswer1": "raven",
+        "incorrectAnswer2": "pigeon"
+    },
+    {
+        "level": "easy",
+        "language": "english",
+        "category": "animals",
+        "question": "I'm wild animal that lives in Asia, eats bamboo and sleeps a lot. Who am I?",
+        "correctAnswer": "panda",
+        "incorrectAnswer1": "polar bear",
+        "incorrectAnswer2": "mosquito"
+    },
+    {
+        "level": "hard",
+        "language": "english",
+        "category": "animals",
+        "question": "My natural habitat is under the water? Who am I?",
+        "correctAnswer": "fish",
+        "incorrectAnswer1": "bird",
+        "incorrectAnswer2": "hindus guy"
+    },
+    {
+        "level": "hard",
+        "language": "english",
+        "category": "animals",
+        "question": "According to the theory of evolution, human evolved from me. Who am I? ",
+        "correctAnswer": "a monkey",
+        "incorrectAnswer1": "the monkey",
+        "incorrectAnswer2": "an monkey"
+    },
+    {
+        "level": "hard",
+        "language": "english",
+        "category": "animals",
+        "question": "I'm famous cartoon character, my name is Sonic. Which animal am I?",
+        "correctAnswer": "hedgehog",
+        "incorrectAnswer1": "elephant",
+        "incorrectAnswer2": "panther"
+    },
+    {
+        "level": "hard",
+        "language": "english",
+        "category": "other",
+        "question": "Beaches are made of me. What am I?",
+        "correctAnswer": "sand",
+        "incorrectAnswer1": "cloud",
+        "incorrectAnswer2": "elephant"
+    },
+    {
+        "level": "hard",
+        "language": "english",
+        "category": "other",
+        "question": "You need to push me into vending machine to make use of it. What am I?",
+        "correctAnswer": "token",
+        "incorrectAnswer1": "torch",
+        "incorrectAnswer2": "brick"
+    },
+    {
+        "level": "easy",
+        "language": "english",
+        "category": "other",
+        "question": "When there is a zero in the divisor, you can't use me. What am I?",
+        "correctAnswer": "divide",
+        "incorrectAnswer1": "substract",
+        "incorrectAnswer2": "multiply"
+    },
+    {
+        "level": "easy",
+        "language": "english",
+        "category": "other",
+        "question": "Students are afraid of me, I'm part of math problems. What am I?",
+        "correctAnswer": "integral",
+        "incorrectAnswer1": "beer",
+        "incorrectAnswer2": "bear"
+    },
+    {
+        "level": "easy",
+        "language": "english",
+        "category": "other",
+        "question": "I'm made to carry things. What am I?",
+        "correctAnswer": "backpack",
+        "incorrectAnswer1": "bearing",
+        "incorrectAnswer2": "vaccine"
+    },
+    {
+        "level": "easy",
+        "language": "english",
+        "category": "house",
+        "question": "I'm a furniture that can be used on its own, but only with table I'm complete. Who am I?",
+        "correctAnswer": "chair",
+        "incorrectAnswer1": "bed",
+        "incorrectAnswer2": "wall"
+    },
+    {
+        "level": "easy",
+        "language": "english",
+        "category": "house",
+        "question": "You need four of me to carry roof. What am I?",
+        "correctAnswer": "walls",
+        "incorrectAnswer1": "floor",
+        "incorrectAnswer2": "doors"
+    },
+    {
+        "level": "easy",
+        "language": "english",
+        "category": "house",
+        "question": "You need me to cut some vegetables. What am I? ",
+        "correctAnswer": "knife",
+        "incorrectAnswer1": "fork",
+        "incorrectAnswer2": "spoon"
+    },
+    {
+        "level": "hard",
+        "language": "english",
+        "category": "house",
+        "question": "I'm necessary to eat soup. What am I?",
+        "correctAnswer": "spoon",
+        "incorrectAnswer1": "fork",
+        "incorrectAnswer2": "knife"
+    },
+    {
+        "level": "hard",
+        "language": "english",
+        "category": "house",
+        "question": "It's used to store tools and park a car. What am I?",
+        "correctAnswer": "garage",
+        "incorrectAnswer1": "kitchen",
+        "incorrectAnswer2": "roof"
+    },
+    {
+        "level": "hard",
+        "language": "polish",
+        "category": "house",
+        "question": "Chcąc zjeść zupę, korzystasz ze mnie. Czym jestem?",
+        "correctAnswer": "łyżka",
+        "incorrectAnswer1": "nóż",
+        "incorrectAnswer2": "latarka"
+    },
+    {
+        "level": "hard",
+        "language": "polish",
+        "category": "house",
+        "question": "Znajduję się między piętrem, a dachem. Czym jestem?",
+        "correctAnswer": "poddasze",
+        "incorrectAnswer1": "kuchnia",
+        "incorrectAnswer2": "garaż"
+    },
+    {
+        "level": "hard",
+        "language": "polish",
+        "category": "house",
+        "question": "Użyjesz mnie do pokrojenia warzyw? Czym jestem?",
+        "correctAnswer": "nożem",
+        "incorrectAnswer1": "lodówką",
+        "incorrectAnswer2": "widelcem"
+    },
+    {
+        "level": "easy",
+        "language": "polish",
+        "category": "house",
+        "question": "Mam zęby, chociaż nie mogę jeść. Czym jestem?",
+        "correctAnswer": "widelec",
+        "incorrectAnswer1": "pralka",
+        "incorrectAnswer2": "łyżka"
+    },
+    {
+        "level": "easy",
+        "language": "polish",
+        "category": "house",
+        "question": "Nie należę do pomieszczeń domowych. Czym jestem?",
+        "correctAnswer": "kuchenka",
+        "incorrectAnswer1": "kuchnia",
+        "incorrectAnswer2": "sypialnia"
+    },
+    {
+        "level": "easy",
+        "language": "polish",
+        "category": "house",
+        "question": "Za pomocą mnie, można podgrzać obiad. Czym jestem?",
+        "correctAnswer": "kuchenka",
+        "incorrectAnswer1": "lodówka",
+        "incorrectAnswer2": "podłoga"
+    },
+    {
+        "level": "easy",
+        "language": "polish",
+        "category": "technology",
+        "question": "Nie używam mnie przy komputerze. Czym jestem?",
+        "correctAnswer": "kot",
+        "incorrectAnswer1": "mysz",
+        "incorrectAnswer2": "klawiatura"
+    },
+    {
+        "level": "easy",
+        "language": "polish",
+        "category": "technology",
+        "question": "Potrzebujesz mnie do pisania na komputerze. Czym jestem?",
+        "correctAnswer": "klawiatura",
+        "incorrectAnswer1": "telewizor",
+        "incorrectAnswer2": "ładowarka"
+    },
+    {
+        "level": "easy",
+        "language": "polish",
+        "category": "technology",
+        "question": "Używasz mnie, aby uprać ubrania. Czym jestem?",
+        "correctAnswer": "pralka",
+        "incorrectAnswer1": "zmywarka",
+        "incorrectAnswer2": "głośniki"
+    },
+    {
+        "level": "hard",
+        "language": "polish",
+        "category": "technology",
+        "question": "Skorzystasz ze mnie, aby pozmywać naczynia. Czym jestem?",
+        "correctAnswer": "zmywarka",
+        "incorrectAnswer1": "pralka",
+        "incorrectAnswer2": "głośniki"
+    },
+    {
+        "level": "hard",
+        "language": "polish",
+        "category": "technology",
+        "question": "Potrzebujesz mnie, aby sprzęty mogły się włączyć. Czym jestem?",
+        "correctAnswer": "elektryczność",
+        "incorrectAnswer1": "elektrotechnika",
+        "incorrectAnswer2": "żarówka"
+    },
+    {
+        "level": "hard",
+        "language": "polish",
+        "category": "technology",
+        "question": "Przeze mnie płynie prąd elektryczny. Czym jestem?",
+        "correctAnswer": "przewód",
+        "incorrectAnswer1": "morze",
+        "incorrectAnswer2": "może"
+    },
+    {
+        "level": "hard",
+        "language": "english",
+        "category": "technology",
+        "question": "I'm part of computer components. What am I?",
+        "correctAnswer": "processor",
+        "incorrectAnswer1": "professor",
+        "incorrectAnswer2": "valve"
+    },
+    {
+        "level": "hard",
+        "language": "english",
+        "category": "technology",
+        "question": "I'm student version of cooker, but I can't use gas to make a dinner. What am I?",
+        "correctAnswer": "microwave",
+        "incorrectAnswer1": "microphone",
+        "incorrectAnswer2": "dishwasher"
+    },
+    {
+        "level": "hard",
+        "language": "english",
+        "category": "technology",
+        "question": "To use any device you need me. What am I?",
+        "correctAnswer": "electricity",
+        "incorrectAnswer1": "microwave",
+        "incorrectAnswer2": "bolt"
+    },
+    {
+        "level": "easy",
+        "language": "english",
+        "category": "technology",
+        "question": "I'm necessary to input text into computer. What am I?",
+        "correctAnswer": "keyboard",
+        "incorrectAnswer1": "skateboard",
+        "incorrectAnswer2": "speakers"
+    },
+    {
+        "level": "easy",
+        "language": "english",
+        "category": "technology",
+        "question": "Every chandelier needs at least one of me to be useful. What am I?",
+        "correctAnswer": "bulb",
+        "incorrectAnswer1": "diamond",
+        "incorrectAnswer2": "scientist"
+    },
+    {
+        "level": "easy",
+        "language": "english",
+        "category": "technology",
+        "question": "Without me, your phone will need new battery if old one is running low. What am I?",
+        "correctAnswer": "charger",
+        "incorrectAnswer1": "bulb",
+        "incorrectAnswer2": "computer"
+    },
+    {
+        "level": "easy",
+        "language": "english",
+        "category": "nature",
+        "question": "For many people, I'm a disappointment when I'm on pizza. What am I?",
+        "correctAnswer": "pineapple",
+        "incorrectAnswer1": "cheese",
+        "incorrectAnswer2": "meat"
+    },
+    {
+        "level": "easy",
+        "language": "english",
+        "category": "nature",
+        "question": "Monkeys love to eat me. What am I?",
+        "correctAnswer": "banana",
+        "incorrectAnswer1": "apple",
+        "incorrectAnswer2": "cloud"
+    },
+    {
+        "level": "easy",
+        "language": "english",
+        "category": "nature",
+        "question": "Every sea has me on the coast. What am I?",
+        "correctAnswer": "beach",
+        "incorrectAnswer1": "peach",
+        "incorrectAnswer2": "pitch"
+    },
+    {
+        "level": "hard",
+        "language": "english",
+        "category": "nature",
+        "question": "I can cover the Sun. What am I??",
+        "correctAnswer": "clouds",
+        "incorrectAnswer1": "beach",
+        "incorrectAnswer2": "lake"
+    },
+    {
+        "level": "hard",
+        "language": "english",
+        "category": "nature",
+        "question": "Chips are made of me. What am I?",
+        "correctAnswer": "potato",
+        "incorrectAnswer1": "tomato",
+        "incorrectAnswer2": "cucumber"
+    },
+    {
+        "level": "hard",
+        "language": "english",
+        "category": "nature",
+        "question": "My beginning is often just a little stream, but then i can reach very big size. What am I?",
+        "correctAnswer": "river",
+        "incorrectAnswer1": "beach",
+        "incorrectAnswer2": "clouds"
+    },
+    {
+        "level": "hard",
+        "language": "polish",
+        "category": "natura",
+        "question": "Chodząc po mnie można poczuć piasek pod stopami. Czym jestem?",
+        "correctAnswer": "plaża",
+        "incorrectAnswer1": "niebo",
+        "incorrectAnswer2": "słońce"
+    },
+    {
+        "level": "hard",
+        "language": "polish",
+        "category": "natura",
+        "question": "Jedni mówią, że jestem owocem, inni że warzywem. Czym jestem?",
+        "correctAnswer": "pomidor",
+        "incorrectAnswer1": "ziemniak",
+        "incorrectAnswer2": "banan"
+    },
+    {
+        "level": "hard",
+        "language": "polish",
+        "category": "natura",
+        "question": "Jestem owocem, który może służyć do wyrobu pewnego trunku. Czym jestem?",
+        "correctAnswer": "winogrono",
+        "incorrectAnswer1": "marchewka",
+        "incorrectAnswer2": "ananas"
+    },
+    {
+        "level": "easy",
+        "language": "polish",
+        "category": "natura",
+        "question": "Jestem 'domem' dla deszczu, śniegu, gradu. Czym jestem?",
+        "correctAnswer": "chmura",
+        "incorrectAnswer1": "jezioro",
+        "incorrectAnswer2": "słońce"
+    },
+    {
+        "level": "hard",
+        "language": "polish",
+        "category": "natura",
+        "question": "Uwielbiają mnie króliki, mam dużo witamin. Czym jestem?",
+        "correctAnswer": "marchewka",
+        "incorrectAnswer1": "jabłko",
+        "incorrectAnswer2": "plaża"
+    },
+    {
+        "level": "hard",
+        "language": "polish",
+        "category": "natura",
+        "question": "Jestem ważnym owocem dla Steve'a Jobs'a oraz Isaaca Newtona. Czym jestem?",
+        "correctAnswer": "jabłko",
+        "incorrectAnswer1": "seler",
+        "incorrectAnswer2": "pietruszka"
+    },
+    {
+        "level": "hard",
+        "language": "polish",
+        "category": "transport",
+        "question": "Jestem środkiem transportu, dostarczam towary. Czym jestem?",
+        "correctAnswer": "ciężarówka",
+        "incorrectAnswer1": "rower",
+        "incorrectAnswer2": "sterowiec"
+    },
+    {
+        "level": "hard",
+        "language": "polish",
+        "category": "transport",
+        "question": "Mogę poruszać się po torach. Czym jestem?",
+        "correctAnswer": "pociąg",
+        "incorrectAnswer1": "samolot",
+        "incorrectAnswer2": "samochód"
+    },
+    {
+        "level": "hard",
+        "language": "polish",
+        "category": "transport",
+        "question": "Nie potrafię wzbić się w powietrze. Czym jestem?",
+        "correctAnswer": "samochód",
+        "incorrectAnswer1": "samolot",
+        "incorrectAnswer2": "sterowiec"
+    },
+    {
+        "level": "easy",
+        "language": "polish",
+        "category": "transport",
+        "question": "Dzielę nazwę z pewnym polskim dużym miastem. Czym jestem?",
+        "correctAnswer": "łódź",
+        "incorrectAnswer1": "rolki",
+        "incorrectAnswer2": "deskorolka"
+    },
+    {
+        "level": "easy",
+        "language": "polish",
+        "category": "transport",
+        "question": "Mam cztery kółka. Czym jestem?",
+        "correctAnswer": "samochód",
+        "incorrectAnswer1": "motocykl",
+        "incorrectAnswer2": "rower"
+    },
+    {
+        "level": "easy",
+        "language": "polish",
+        "category": "transport",
+        "question": "Mam dwa kółka. Czym jestem?",
+        "correctAnswer": "rower",
+        "incorrectAnswer1": "sterowiec",
+        "incorrectAnswer2": "ciężarówka"
+    },
+    {
+        "level": "easy",
+        "language": "english",
+        "category": "transport",
+        "question": "I can transport goods. What am I?",
+        "correctAnswer": "truck",
+        "incorrectAnswer1": "airship",
+        "incorrectAnswer2": "bike"
+    },
+    {
+        "level": "easy",
+        "language": "english",
+        "category": "transport",
+        "question": "I can move on the tracks. What am I?",
+        "correctAnswer": "train",
+        "incorrectAnswer1": "airplane",
+        "incorrectAnswer2": "airship"
+    },
+    {
+        "level": "easy",
+        "language": "english",
+        "category": "transport",
+        "question": "I can't fly. What am I?",
+        "correctAnswer": "car",
+        "incorrectAnswer1": "airship",
+        "incorrectAnswer2": "airplane"
+    },
+    {
+        "level": "hard",
+        "language": "english",
+        "category": "transport",
+        "question": "You will choose to get to the island. What am I?",
+        "correctAnswer": "boat",
+        "incorrectAnswer1": "car",
+        "incorrectAnswer2": "bike"
+    },
+    {
+        "level": "hard",
+        "language": "english",
+        "category": "transport",
+        "question": "I have four wheels. What am I?",
+        "correctAnswer": "car",
+        "incorrectAnswer1": "bike",
+        "incorrectAnswer2": "motorbike"
+    },
+    {
+        "level": "hard",
+        "language": "english",
+        "category": "transport",
+        "question": "I have two wheels. What am I?",
+        "correctAnswer": "bike",
+        "incorrectAnswer1": "car",
+        "incorrectAnswer2": "truck"
+    }
+]

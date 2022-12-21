@@ -1,0 +1,641 @@
+[
+    {
+        "level": "easy",
+        "language": "polish",
+        "category": "other",
+        "question": "Jaka jest kolejna cyfra występującą po trzy?",
+        "correctAnswer": "cztery",
+        "incorrectAnswer1": "pięć",
+        "incorrectAnswer2": "osiemnaście"
+    },
+    {
+        "level": "easy",
+        "language": "polish",
+        "category": "other",
+        "question": "Co jest odpowiednikiem tysiąca gram?",
+        "correctAnswer": "jeden kilogram",
+        "incorrectAnswer1": "pięć kilogramów",
+        "incorrectAnswer2": "dwa kilogramy"
+    },
+    {
+        "level": "easy",
+        "language": "polish",
+        "category": "other",
+        "question": "Co oznacza znak '*'?",
+        "correctAnswer": "mnożenie",
+        "incorrectAnswer1": "dodawanie",
+        "incorrectAnswer2": "dzielenie"
+    },
+    {
+        "level": "hard",
+        "language": "polish",
+        "category": "other",
+        "question": "Które z poniższych urządzeń służy do obróbki drewna?",
+        "correctAnswer": "tokarka",
+        "incorrectAnswer1": "wędzarka",
+        "incorrectAnswer2": "lodówka"
+    },
+    {
+        "level": "hard",
+        "language": "polish",
+        "category": "other",
+        "question": "Co jest zwieńczeniem szyi?",
+        "correctAnswer": "głowa",
+        "incorrectAnswer1": "pacha",
+        "incorrectAnswer2": "pięta"
+    },
+    {
+        "level": "hard",
+        "language": "polish",
+        "category": "other",
+        "question": "Co jest jednocześnie kierunkiem geograficznym i środkiem nocy?",
+        "correctAnswer": "północ",
+        "incorrectAnswer1": "południe",
+        "incorrectAnswer2": "jesień"
+    },
+    {
+        "level": "hard",
+        "language": "polish",
+        "category": "animals",
+        "question": "Jaki ptak odlatuje z Polski na zimę, a jego upierzenie jest w kolorach filmów z początku XX wieku?",
+        "correctAnswer": "bocian",
+        "incorrectAnswer1": "sójka",
+        "incorrectAnswer2": "kaczka"
+    },
+    {
+        "level": "hard",
+        "language": "polish",
+        "category": "animals",
+        "question": "Jaki jest poprawny zapis najcięższej nazwy polskiego ptaka?",
+        "correctAnswer": "gżegżółka",
+        "incorrectAnswer1": "grzegrzułka",
+        "incorrectAnswer2": "grzegrzółka"
+    },
+    {
+        "level": "hard",
+        "language": "polish",
+        "category": "animals",
+        "question": "Które z podanych zwierząt wygląda jak połączenie wydry z chomikiem?",
+        "correctAnswer": "kapibara",
+        "incorrectAnswer1": "pies",
+        "incorrectAnswer2": "okoń"
+    },
+    {
+        "level": "easy",
+        "language": "polish",
+        "category": "animals",
+        "question": "Które zwierze zasypia w sen zimowy, lubi miód, a w popularnej bajce ma na imię Kubuś?",
+        "correctAnswer": "niedźwiedź",
+        "incorrectAnswer1": "żyrafa",
+        "incorrectAnswer2": "koń"
+    },
+    {
+        "level": "easy",
+        "language": "polish",
+        "category": "animals",
+        "question": "Na jakie zwierze mówi się najlepszy przyjaciel człowieka?",
+        "correctAnswer": "pies",
+        "incorrectAnswer1": "kapibara",
+        "incorrectAnswer2": "okoń"
+    },
+    {
+        "level": "easy",
+        "language": "polish",
+        "category": "animals",
+        "question": "Jakiego gatunku naturalnym środowiskiem jest woda?",
+        "correctAnswer": "ryba",
+        "incorrectAnswer1": "ptak",
+        "incorrectAnswer2": "ssak"
+    },
+    {
+        "level": "easy",
+        "language": "english",
+        "category": "animals",
+        "question": "Which pet is related to lions?",
+        "correctAnswer": "cat",
+        "incorrectAnswer1": "dog",
+        "incorrectAnswer2": "capybara"
+    },
+    {
+        "level": "easy",
+        "language": "english",
+        "category": "animals",
+        "question": "Which bird can speak human language?",
+        "correctAnswer": "parrot",
+        "incorrectAnswer1": "raven",
+        "incorrectAnswer2": "pigeon"
+    },
+    {
+        "level": "easy",
+        "language": "english",
+        "category": "animals",
+        "question": "What is the wild animal, that lives in Asia, eats bamboo and sleeps a lot? ",
+        "correctAnswer": "panda",
+        "incorrectAnswer1": "polar bear",
+        "incorrectAnswer2": "mosquito"
+    },
+    {
+        "level": "hard",
+        "language": "english",
+        "category": "animals",
+        "question": "Which type of animal can breathe under the water?",
+        "correctAnswer": "fish",
+        "incorrectAnswer1": "bird",
+        "incorrectAnswer2": "mammal"
+    },
+    {
+        "level": "hard",
+        "language": "english",
+        "category": "animals",
+        "question": "According to the theory of evolution, human evolved from which animal?",
+        "correctAnswer": "a monkey",
+        "incorrectAnswer1": "the monkey",
+        "incorrectAnswer2": "an monkey"
+    },
+    {
+        "level": "hard",
+        "language": "english",
+        "category": "animals",
+        "question": "Famous cartoon character, Sonic, was which animal?",
+        "correctAnswer": "hedgehog",
+        "incorrectAnswer1": "elephant",
+        "incorrectAnswer2": "panther"
+    },
+    {
+        "level": "hard",
+        "language": "english",
+        "category": "other",
+        "question": "Which part of body is single?",
+        "correctAnswer": "head",
+        "incorrectAnswer1": "eye",
+        "incorrectAnswer2": "leg"
+    },
+    {
+        "level": "hard",
+        "language": "english",
+        "category": "other",
+        "question": "What is main element of beaches?",
+        "correctAnswer": "sand",
+        "incorrectAnswer1": "cloud",
+        "incorrectAnswer2": "elephant"
+    },
+    {
+        "level": "hard",
+        "language": "english",
+        "category": "other",
+        "question": "What you need to push into vending machine to make use of it?",
+        "correctAnswer": "token",
+        "incorrectAnswer1": "torch",
+        "incorrectAnswer2": "brick"
+    },
+    {
+        "level": "easy",
+        "language": "english",
+        "category": "other",
+        "question": "What is forbidden when there is a zero in the divisor?",
+        "correctAnswer": "divide",
+        "incorrectAnswer1": "substract",
+        "incorrectAnswer2": "multiply"
+    },
+    {
+        "level": "easy",
+        "language": "english",
+        "category": "other",
+        "question": "What is a part of math problem which students are afraid of?",
+        "correctAnswer": "integral",
+        "incorrectAnswer1": "beer",
+        "incorrectAnswer2": "bear"
+    },
+    {
+        "level": "easy",
+        "language": "english",
+        "category": "other",
+        "question": "What is made to carry things?",
+        "correctAnswer": "backpack",
+        "incorrectAnswer1": "bearing",
+        "incorrectAnswer2": "vaccine"
+    },
+    {
+        "level": "easy",
+        "language": "english",
+        "category": "house",
+        "question": "What furniture can be used on its own, but only with table it's complete? ",
+        "correctAnswer": "chair",
+        "incorrectAnswer1": "bed",
+        "incorrectAnswer2": "wall"
+    },
+    {
+        "level": "easy",
+        "language": "english",
+        "category": "house",
+        "question": "What do you need to carry roof?",
+        "correctAnswer": "walls",
+        "incorrectAnswer1": "floor",
+        "incorrectAnswer2": "doors"
+    },
+    {
+        "level": "easy",
+        "language": "english",
+        "category": "house",
+        "question": "What you will need to cut some vegetables? ",
+        "correctAnswer": "knife",
+        "incorrectAnswer1": "fork",
+        "incorrectAnswer2": "spoon"
+    },
+    {
+        "level": "hard",
+        "language": "english",
+        "category": "house",
+        "question": "What is necessary to eat soup?",
+        "correctAnswer": "spoon",
+        "incorrectAnswer1": "fork",
+        "incorrectAnswer2": "knife"
+    },
+    {
+        "level": "hard",
+        "language": "english",
+        "category": "house",
+        "question": "What is used to store tools and park a car?",
+        "correctAnswer": "garage",
+        "incorrectAnswer1": "kitchen",
+        "incorrectAnswer2": "roof"
+    },
+    {
+        "level": "hard",
+        "language": "polish",
+        "category": "house",
+        "question": "Z czego należy skorzystać, chcąc zjeść zupę?",
+        "correctAnswer": "łyżka",
+        "incorrectAnswer1": "nóż",
+        "incorrectAnswer2": "latarka"
+    },
+    {
+        "level": "hard",
+        "language": "polish",
+        "category": "house",
+        "question": "Co znajduje się między piętrem, a dachem?",
+        "correctAnswer": "poddasze",
+        "incorrectAnswer1": "kuchnia",
+        "incorrectAnswer2": "garaż"
+    },
+    {
+        "level": "hard",
+        "language": "polish",
+        "category": "house",
+        "question": "Czego użyjesz do pokrojenia warzyw?",
+        "correctAnswer": "nóz",
+        "incorrectAnswer1": "lodówka",
+        "incorrectAnswer2": "widelec"
+    },
+    {
+        "level": "easy",
+        "language": "polish",
+        "category": "house",
+        "question": "Co ma zęby, chociaż nie można tym jeść?",
+        "correctAnswer": "widelec",
+        "incorrectAnswer1": "pralka",
+        "incorrectAnswer2": "łyżka"
+    },
+    {
+        "level": "easy",
+        "language": "polish",
+        "category": "house",
+        "question": "Co nie należy do pomieszczeń domowych?",
+        "correctAnswer": "kuchenka",
+        "incorrectAnswer1": "kuchnia",
+        "incorrectAnswer2": "sypialnia"
+    },
+    {
+        "level": "easy",
+        "language": "polish",
+        "category": "house",
+        "question": "Za pomocą czego można podgrzać obiad?",
+        "correctAnswer": "kuchenka",
+        "incorrectAnswer1": "lodówka",
+        "incorrectAnswer2": "podłoga"
+    },
+    {
+        "level": "easy",
+        "language": "polish",
+        "category": "technology",
+        "question": "Czego nie używasz przy komputerze?",
+        "correctAnswer": "kot",
+        "incorrectAnswer1": "mysz",
+        "incorrectAnswer2": "klawiatura"
+    },
+    {
+        "level": "easy",
+        "language": "polish",
+        "category": "technology",
+        "question": "Czego potrzebujesz do pisania na komputerze?",
+        "correctAnswer": "klawiatura",
+        "incorrectAnswer1": "ładowarka",
+        "incorrectAnswer2": "telewizor"
+    },
+    {
+        "level": "easy",
+        "language": "polish",
+        "category": "technology",
+        "question": "Z czego skorzystasz, aby uprać ubrania?",
+        "correctAnswer": "pralka",
+        "incorrectAnswer1": "zmywarka",
+        "incorrectAnswer2": "głośniki"
+    },
+    {
+        "level": "hard",
+        "language": "polish",
+        "category": "technology",
+        "question": "Z czego skorzystasz, aby pozmywać naczynia?",
+        "correctAnswer": "zmywarka",
+        "incorrectAnswer1": "pralka",
+        "incorrectAnswer2": "głośniki"
+    },
+    {
+        "level": "hard",
+        "language": "polish",
+        "category": "technology",
+        "question": "Czego potrzebujesz, aby sprzęty mogły się włączyć?",
+        "correctAnswer": "elektryczność",
+        "incorrectAnswer1": "elektrotechnika",
+        "incorrectAnswer2": "żarówka"
+    },
+    {
+        "level": "hard",
+        "language": "polish",
+        "category": "technology",
+        "question": "Przez co płynie prąd elektryczny?",
+        "correctAnswer": "przewód",
+        "incorrectAnswer1": "morze",
+        "incorrectAnswer2": "może"
+    },
+    {
+        "level": "hard",
+        "language": "english",
+        "category": "technology",
+        "question": "What is a part of computer components?",
+        "correctAnswer": "processor",
+        "incorrectAnswer1": "professor",
+        "incorrectAnswer2": "valve"
+    },
+    {
+        "level": "hard",
+        "language": "english",
+        "category": "technology",
+        "question": "What is a student version of cooker, but it can't use gas to make a dinner?",
+        "correctAnswer": "microwave",
+        "incorrectAnswer1": "microphone",
+        "incorrectAnswer2": "dishwasher"
+    },
+    {
+        "level": "hard",
+        "language": "english",
+        "category": "technology",
+        "question": "What do you need to use any device?",
+        "correctAnswer": "electricity",
+        "incorrectAnswer1": "microwave",
+        "incorrectAnswer2": "bolt"
+    },
+    {
+        "level": "easy",
+        "language": "english",
+        "category": "technology",
+        "question": "What is necessary to input text into computer.",
+        "correctAnswer": "keyboard",
+        "incorrectAnswer1": "skateboard",
+        "incorrectAnswer2": "speakers"
+    },
+    {
+        "level": "easy",
+        "language": "english",
+        "category": "technology",
+        "question": "What every chandelier needs at least one, to be useful?",
+        "correctAnswer": "bulb",
+        "incorrectAnswer1": "diamond",
+        "incorrectAnswer2": "scientist"
+    },
+    {
+        "level": "easy",
+        "language": "english",
+        "category": "technology",
+        "question": "Without what, phone will need new battery if old one is running low?",
+        "correctAnswer": "charger",
+        "incorrectAnswer1": "bulb",
+        "incorrectAnswer2": "computer"
+    },
+    {
+        "level": "easy",
+        "language": "english",
+        "category": "nature",
+        "question": "What is a disappointment for many people when it's on pizza?",
+        "correctAnswer": "pineapple",
+        "incorrectAnswer1": "cheese",
+        "incorrectAnswer2": "meat"
+    },
+    {
+        "level": "easy",
+        "language": "english",
+        "category": "nature",
+        "question": "What monkeys love to eat?",
+        "correctAnswer": "banana",
+        "incorrectAnswer1": "apple",
+        "incorrectAnswer2": "cloud"
+    },
+    {
+        "level": "easy",
+        "language": "english",
+        "category": "nature",
+        "question": "What every sea has on the coast?",
+        "correctAnswer": "beach",
+        "incorrectAnswer1": "peach",
+        "incorrectAnswer2": "pitch"
+    },
+    {
+        "level": "hard",
+        "language": "english",
+        "category": "nature",
+        "question": "What can cover the Sun?",
+        "correctAnswer": "clouds",
+        "incorrectAnswer1": "beach",
+        "incorrectAnswer2": "lake"
+    },
+    {
+        "level": "hard",
+        "language": "english",
+        "category": "nature",
+        "question": "What chips are made of?",
+        "correctAnswer": "potato",
+        "incorrectAnswer1": "tomato",
+        "incorrectAnswer2": "cucumber"
+    },
+    {
+        "level": "hard",
+        "language": "english",
+        "category": "nature",
+        "question": "What begins with just a little stream, but then it can reach very big size?",
+        "correctAnswer": "river",
+        "incorrectAnswer1": "beach",
+        "incorrectAnswer2": "clouds"
+    },
+    {
+        "level": "hard",
+        "language": "polish",
+        "category": "nature",
+        "question": "Chodząc po czym można poczuc piasek pod stopami?",
+        "correctAnswer": "plaża",
+        "incorrectAnswer1": "niebo",
+        "incorrectAnswer2": "słońce"
+    },
+    {
+        "level": "hard",
+        "language": "polish",
+        "category": "nature",
+        "question": "Co jest powodem sporu, czy należy do owoców, czy warzyw?",
+        "correctAnswer": "pomidor",
+        "incorrectAnswer1": "ziemniak",
+        "incorrectAnswer2": "banan"
+    },
+    {
+        "level": "hard",
+        "language": "polish",
+        "category": "nature",
+        "question": "Co jest owocem, który może służyć do wyrobu pewnego trunku?",
+        "correctAnswer": "winogrono",
+        "incorrectAnswer1": "marchewka",
+        "incorrectAnswer2": "ananas"
+    },
+    {
+        "level": "easy",
+        "language": "polish",
+        "category": "nature",
+        "question": "Co jest 'domem' dla deszczu, śniegu, gradu?",
+        "correctAnswer": "chmura",
+        "incorrectAnswer1": "jezioro",
+        "incorrectAnswer2": "słońce"
+    },
+    {
+        "level": "hard",
+        "language": "polish",
+        "category": "nature",
+        "question": "Co Uwielbiają króliki i ma dużo witamin?",
+        "correctAnswer": "marchewka",
+        "incorrectAnswer1": "jabłko",
+        "incorrectAnswer2": "plaża"
+    },
+    {
+        "level": "hard",
+        "language": "polish",
+        "category": "nature",
+        "question": "Co jest ważnym owocem dla Steve'a Jobs'a oraz Isaaca Newtona?",
+        "correctAnswer": "jabłko",
+        "incorrectAnswer1": "seler",
+        "incorrectAnswer2": "pietruszka"
+    },
+    {
+        "level": "hard",
+        "language": "polish",
+        "category": "transport",
+        "question": "Jaki środek transportu dostarcza towary?",
+        "correctAnswer": "ciężarówka",
+        "incorrectAnswer1": "rower",
+        "incorrectAnswer2": "sterowiec"
+    },
+    {
+        "level": "hard",
+        "language": "polish",
+        "category": "transport",
+        "question": "Jaki środek transportu  może poruszać się po torach?",
+        "correctAnswer": "pociąg",
+        "incorrectAnswer1": "samolot",
+        "incorrectAnswer2": "samochód"
+    },
+    {
+        "level": "hard",
+        "language": "polish",
+        "category": "transport",
+        "question": "Który z podanych pojazdów nie wzbije się w przestworza",
+        "correctAnswer": "samochód",
+        "incorrectAnswer1": "samolot",
+        "incorrectAnswer2": "sterowiec"
+    },
+    {
+        "level": "easy",
+        "language": "polish",
+        "category": "transport",
+        "question": "Co dzieli nazwę z pewnym polskim dużym miastem?",
+        "correctAnswer": "łódź",
+        "incorrectAnswer1": "rolki",
+        "incorrectAnswer2": "deskorolka"
+    },
+    {
+        "level": "easy",
+        "language": "polish",
+        "category": "transport",
+        "question": "Który pojazd ma cztery kółka?",
+        "correctAnswer": "samochód",
+        "incorrectAnswer1": "motocykl",
+        "incorrectAnswer2": "rower"
+    },
+    {
+        "level": "easy",
+        "language": "polish",
+        "category": "transport",
+        "question": "Który pojazd ma dwa kółka?",
+        "correctAnswer": "rower",
+        "incorrectAnswer1": "sterowiec",
+        "incorrectAnswer2": "ciężarówka"
+    },
+    {
+        "level": "easy",
+        "language": "english",
+        "category": "transport",
+        "question": "What can transport goods?",
+        "correctAnswer": "truck",
+        "incorrectAnswer1": "airship",
+        "incorrectAnswer2": "bike"
+    },
+    {
+        "level": "easy",
+        "language": "english",
+        "category": "transport",
+        "question": "What can move on the tracks?",
+        "correctAnswer": "train",
+        "incorrectAnswer1": "airplane",
+        "incorrectAnswer2": "airship"
+    },
+    {
+        "level": "easy",
+        "language": "english",
+        "category": "transport",
+        "question": "What can't fly?",
+        "correctAnswer": "car",
+        "incorrectAnswer1": "airship",
+        "incorrectAnswer2": "airplane"
+    },
+    {
+        "level": "hard",
+        "language": "english",
+        "category": "transport",
+        "question": "What you will choose to get to the island?",
+        "correctAnswer": "boat",
+        "incorrectAnswer1": "car",
+        "incorrectAnswer2": "bike"
+    },
+    {
+        "level": "hard",
+        "language": "english",
+        "category": "transport",
+        "question": "Which vehicle has four wheels?",
+        "correctAnswer": "car",
+        "incorrectAnswer1": "bike",
+        "incorrectAnswer2": "motorbike"
+    },
+    {
+        "level": "hard",
+        "language": "english",
+        "category": "transport",
+        "question": "which vehicle has two wheels?",
+        "correctAnswer": "bike",
+        "incorrectAnswer1": "car",
+        "incorrectAnswer2": "truck"
+    }
+]
